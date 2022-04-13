@@ -5,5 +5,4 @@ beautifulsoup4==4.9.3
 newspaper
 Jinja2==2.11.1
 flask_material==0.1.1
-gunicorn==19.9.0
 Werkzeug==0.15.5
