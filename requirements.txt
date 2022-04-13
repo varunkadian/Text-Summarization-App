@@ -1,0 +1,6 @@
+flask
+nltk
+newspaper
+Jinja2==2.11.1
+gunicorn==19.9.0
+Werkzeug==0.15.5
