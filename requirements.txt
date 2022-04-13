@@ -1,5 +1,6 @@
 flask
-nltk
+nltk==2.0.5
+BeautifulSoup==3.2.1
 newspaper
 Jinja2==2.11.1
 gunicorn==19.9.0
